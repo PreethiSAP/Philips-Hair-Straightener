@@ -1,4 +1,4 @@
-# **Instruction Manual**
+# **INSTRUCTION MANUAL**
 ## **Philips Silk ProCare Hair Straightener with Kerashine - BHS386**
 
 ![71yc4nJxY8L _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/1fac84b7-6014-424d-a66b-1ba1de79d35e)
@@ -101,7 +101,8 @@ Follow the instructions carefully before using the product and keep the document
 10. Slowly turn the straightener (inwards/outwards) to create curly flicks at the hair ends. 
 11. Repeat step 6-8 to style the rest hair.
 
-> ## **After Use**
+
+## **After Use**
 
 > Switch off and unplug the product. 
 > Completely cool the product by placing it on a heat-resistant surface. . 
@@ -112,7 +113,8 @@ Follow the instructions carefully before using the product and keep the document
 
 This product is covered under warranty on any defect/damage for 2 years  from the purchase date. Philips India Ltd. provides repair free of cost at any authorized Philips service centres during the period of warranty. 
 
-> **The warranty is not applicable if:**
+**The warranty is not applicable if:**
+
 > 1.	Product is used against user manual
 > 2.	Defects caused due to improper use. 
 > 3.	Repaired from unauthorized person. 
@@ -123,5 +125,5 @@ This product is covered under warranty on any defect/damage for 2 years  from th
 
 Contact authorised Philips Service Centres for any information or troubleshoot. 
 
-[Visit](www.philips.com) for a list of authorized Philips service centers or [contact] our consumer care at (1800 102 2929) (Toll free) or (1860 180 1111) standard call rates apply.
+Visit[Philips](www.philips.com) for a list of authorized Philips service centers or contact our consumer care at 1800 102 2929 (Toll free) or 1860 180 1111 standard call rates apply.
 
