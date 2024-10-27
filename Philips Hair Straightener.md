@@ -16,7 +16,8 @@
 #### Operational image of Philips hair straightener - BHS386
 
 ![philips](https://github.com/user-attachments/assets/1c164348-cacb-4bfb-ab70-deba8fcded71)
-Annotations
+#### Annotations
+
 (1)	Straightening plates 
 
 (2)	Ions
@@ -51,8 +52,9 @@ This document presents the technical specifications and how to guide on using th
 
 ## **Technical Specification**
 
-| Voltage | Worldwide V |
+| Specifications | Details |
 | ------- | ----------- |
+| Voltage | Worldwide V |
 | Cord length | 1.6m |
 | Heat-up time | 60 sec |
 | Styling temperature | 210°C |
