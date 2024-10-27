@@ -48,3 +48,13 @@ This document presents the technical specifications and how to guide on using th
 **Kerashine:** A feature that smooths cells that overlap to form hair strands, which means more manageable hair and less frizzes. 
 
 **Silk ProCare:** Silk ProCare feature in hair straighteners have plates that are smoother than silk to reduce friction and heat exposure. 
+
+## **Technical Specification**
+
+| column1 | column2 |
+| ------- | ------- |
+| column1 | column2 |
+| column1 | column2 |
+| column1 | column2 |
+| column1 | column2 |
+
