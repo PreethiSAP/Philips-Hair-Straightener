@@ -75,13 +75,29 @@ This document presents the technical specifications and how to guide on using th
 
 Follow the instructions carefully before using the product and keep the document safe for future reference. 
 
-1.	Keep the product away from water. Since the proximity of water presents a risk even if the product is not in use. 
-2.	Unplug the product after use. 
-3.	If noticed any damage in cord, check for replacement from Philips service centre. 
-4.	The product can be used by children aged 8 years and above. But, supervision of adults is advised for young users. 
-5.	Always ensure the voltage before plugging in. The voltage indicated on the appliance corresponds to the local power voltage. 
-6.	Not advised to use the product on artificial hair. 
-7.	Do not leave the product unattended after connected to the power. 
-8.	Cool the product completely before storing it. 
-9.	Do not let the cord come in contact with the heating plates. 
-10.	Always use the product on dry hair. 
+1. Keep the product away from water. Since the proximity of water presents a risk even if the product is not in use. 
+2. Unplug the product after use.
+3. If noticed any damage in cord, check for replacement from Philips service centre.
+4. The product can be used by children aged 8 years and above. But, supervision of adults is advised for young users.
+5. Always ensure the voltage before plugging in. The voltage indicated on the appliance corresponds to the local power voltage.
+6. Not advised to use the product on artificial hair.
+7. Do not leave the product unattended after connected to the power.
+8. Cool the product completely before storing it.
+9. Do not let the cord come in contact with the heating plates. 
+10.	Always use the product on dry hair.
+
+## **Steps to Straightening the hair**
+
+1. Plug the product to power supply socket.
+2. Open the heating plates by sliding the unlock switch (5)
+3. Adjust the temperature control switch (4) to level 1 or 2 on the product. 
+   _*Note: Always use the lower temperature option for the first time._* 
+4. The power-on LED (3) lights up. 
+5. Once the indicator lights up, the product takes 60 seconds to heat up. 
+6. When the product is on, ions (2) are evenly distributed automatically and continuously, reducing frizz and adding further shine to hairs.
+7. Comb your hair and make sections for easy straightening.
+8. Place the sectioned hair between the straightening plates (1) and close the plates firmly together. 
+9. Gently slide the down the straightener in one go (Maximum 5 seconds). Avoid stopping the straightener in between to avoid overheating.
+10. Slowly turn the straightener (inwards/outwards) to create curly flicks at the hair ends. 
+11. Repeat step 6-8 to style the rest hair.
+
