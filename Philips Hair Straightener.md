@@ -20,17 +20,17 @@
 
 ##### Annotations
 
-> (1)	Straightening plates 
+######## (1)	Straightening plates 
 
-> (2)	Ions
+######## (2)	Ions
 
-> (3)	LED 
+######## (3)	LED 
 
-> (4)	Temperature control switch 
+######## (4)	Temperature control switch 
 
-> (5)	Unlock switch 
+######## (5)	Unlock switch 
 
-> (6)	Hanging loop
+######## (6)	Hanging loop
 
 ## **Introduction**
 
