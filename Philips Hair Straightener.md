@@ -52,6 +52,7 @@ This document presents the technical specifications and how to guide on using th
 ## **Technical Specification**
 
 | Voltage | Worldwide V |
+| ------- | ----------- |
 | Cord length | 1.6m |
 | Heat-up time | 60 sec |
 | Styling temperature | 210°C |
