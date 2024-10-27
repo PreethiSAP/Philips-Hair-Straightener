@@ -4,6 +4,7 @@
 ![71yc4nJxY8L _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/1fac84b7-6014-424d-a66b-1ba1de79d35e)
 
 ## Table of Content
+----------------------------------------------------------------------
 1.	Operational image of Philips hair straightener - BHS386
 2.	Introduction
 3.	Glossary
@@ -19,17 +20,17 @@
 
 ##### Annotations
 
-(1)	Straightening plates 
+> (1)	Straightening plates 
 
-(2)	Ions
+> (2)	Ions
 
-(3)	LED 
+> (3)	LED 
 
-(4)	Temperature control switch 
+> (4)	Temperature control switch 
 
-(5)	Unlock switch 
+> (5)	Unlock switch 
 
-(6)	Hanging loop
+> (6)	Hanging loop
 
 ## **Introduction**
 
@@ -104,9 +105,12 @@ Follow the instructions carefully before using the product and keep the document
 
 ## **After Use**
 
-> Switch off and unplug the product. 
-> Completely cool the product by placing it on a heat-resistant surface. . 
-> Clean the product using damp cloth before storing it. 
+> Switch off and unplug the product.
+> 
+> Completely cool the product by placing it on a heat-resistant surface.
+> 
+> Clean the product using damp cloth before storing it.
+> 
 > Store the product in safe and dry place. The product can also be hanged using the hanging loop (6).
 
 ## **Warranty**
@@ -115,11 +119,15 @@ This product is covered under warranty on any defect/damage for 2 years  from th
 
 **The warranty is not applicable if:**
 
-> 1.	Product is used against user manual
-> 2.	Defects caused due to improper use. 
-> 3.	Repaired from unauthorized person. 
-> 4.	Inappropriate warranty card.
-> 5.	Product used for commercial purpose.
+> Product is used against user manual.
+> 
+> Defects caused due to improper use.
+> 
+> Repaired from unauthorized person.
+>  
+> Inappropriate warranty card.
+> 
+> Product used for commercial purpose.
 
 ## **Service**
 
