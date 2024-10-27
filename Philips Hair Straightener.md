@@ -89,7 +89,7 @@ Follow the instructions carefully before using the product and keep the document
 ## **Steps to Straightening the hair**
 
 1. Plug the product to power supply socket.
-2. Open the heating plates by sliding the unlock switch (5)
+2. Open the heating plates by sliding the unlock switch (5) [^1]
 3. Adjust the temperature control switch (4) to level 1 or 2 on the product. 
    _*Note: Always use the lower temperature option for the first time._* 
 4. The power-on LED (3) lights up. 
