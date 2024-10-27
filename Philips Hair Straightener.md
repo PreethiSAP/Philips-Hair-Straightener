@@ -16,7 +16,8 @@
 #### Operational image of Philips hair straightener - BHS386
 
 ![philips](https://github.com/user-attachments/assets/1c164348-cacb-4bfb-ab70-deba8fcded71)
-#### Annotations
+
+###### Annotations
 
 (1)	Straightening plates 
 
@@ -62,8 +63,11 @@ This document presents the technical specifications and how to guide on using th
 
 ### **Features**
 
-| column1 | column2 |
-| column1 | column2 |
-| column1 | column2 |
-| column1 | column2 |
-| column1 | column2 |
+| Specifications | Details |
+| ------- | ----------- |
+| Temperature Settings | 190°C and 210°C |
+| Swivel cord | Yes |
+| Storage hook | Yes |
+| Ionic care | Yes |
+| Keratin ceramic coating | Yes |
+| Plate Lock | Yes |
