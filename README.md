@@ -16,3 +16,23 @@
 #### Operational image of Philips hair straightener - BHS386
 
 ![philips](https://github.com/user-attachments/assets/1c164348-cacb-4bfb-ab70-deba8fcded71)
+Annotations
+(1)	Straightening plates 
+(2)	Ions
+(3)	LED 
+(4)	Temperature control switch 
+(5)	Unlock switch 
+(6)	Hanging loop
+
+## **Introduction**
+Congratulations on purchasing the Philips Silk ProCare Hair Straightener with Kerashine and welcome to Philips family. 
+Infused with keratin ceramic coating and iconic care, the Philips straightener protects the hairs while styling with minimal heat damage adding more shine and perfect salon like results.  
+
+This document presents the technical specifications and how to guide on using the Philips Silk ProCare Hair Straightener with Kerashine. 
+
+## **Glossary**
+**Keratin-infused ceramic:** a feature of some hair straighteners that are designed to make hair shinier, healthier, and smoother. 
+**Keratin:** The keratin in the plates helps keep hair healthy and shiny. 
+**Ceramic coating:** The ceramic coating on the plates helps distribute heat evenly and protects hair from heat damage. 
+**Kerashine:** A feature that smooths cells that overlap to form hair strands, which means more manageable hair and less frizzes. 
+**Silk ProCare:** Silk ProCare feature in hair straighteners have plates that are smoother than silk to reduce friction and heat exposure. 
