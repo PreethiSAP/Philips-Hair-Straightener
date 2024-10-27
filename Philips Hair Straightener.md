@@ -89,7 +89,7 @@ Follow the instructions carefully before using the product and keep the document
 ## **Steps to Straightening the hair**
 
 1. Plug the product to power supply socket.
-2. Open the heating plates by sliding the unlock switch (5) [^1]
+2. Open the heating plates by sliding the unlock switch (5)
 3. Adjust the temperature control switch (4) to level 1 or 2 on the product. 
    _*Note: Always use the lower temperature option for the first time._* 
 4. The power-on LED (3) lights up. 
@@ -100,4 +100,28 @@ Follow the instructions carefully before using the product and keep the document
 9. Gently slide the down the straightener in one go (Maximum 5 seconds). Avoid stopping the straightener in between to avoid overheating.
 10. Slowly turn the straightener (inwards/outwards) to create curly flicks at the hair ends. 
 11. Repeat step 6-8 to style the rest hair.
+
+> ## **After Use**
+
+> Switch off and unplug the product. 
+> Completely cool the product by placing it on a heat-resistant surface. . 
+> Clean the product using damp cloth before storing it. 
+> Store the product in safe and dry place. The product can also be hanged using the hanging loop (6).
+
+## **Warranty**
+
+This product is covered under warranty on any defect/damage for 2 years  from the purchase date. Philips India Ltd. provides repair free of cost at any authorized Philips service centres during the period of warranty. 
+
+> **The warranty is not applicable if:**
+> 1.	Product is used against user manual
+> 2.	Defects caused due to improper use. 
+> 3.	Repaired from unauthorized person. 
+> 4.	Inappropriate warranty card.
+> 5.	Product used for commercial purpose.
+
+## **Service**
+
+Contact authorised Philips Service Centres for any information or troubleshoot. 
+
+[Visit](www.philips.com) for a list of authorized Philips service centers or [contact] our consumer care at (1800 102 2929) (Toll free) or (1860 180 1111) standard call rates apply.
 
