@@ -17,7 +17,7 @@
 
 ![philips](https://github.com/user-attachments/assets/1c164348-cacb-4bfb-ab70-deba8fcded71)
 
-###### Annotations
+##### Annotations
 
 (1)	Straightening plates 
 
@@ -61,13 +61,27 @@ This document presents the technical specifications and how to guide on using th
 | Styling temperature | 210°C |
 | Styling plates | 29x90mm |
 
+
 ### **Features**
 
-| Specifications | Details |
-| ------- | ----------- |
-| Temperature Settings | 190°C and 210°C |
-| Swivel cord | Yes |
-| Storage hook | Yes |
-| Ionic care | Yes |
-| Keratin ceramic coating | Yes |
-| Plate Lock | Yes |
+- [x] Swivel cord
+- [x] Storage hook
+- [x] Ionic care
+- [x] Keratin ceramic coating
+- [x] Plate Lock
+
+
+## **Important**
+
+Follow the instructions carefully before using the product and keep the document safe for future reference. 
+
+1.	Keep the product away from water. Since the proximity of water presents a risk even if the product is not in use. 
+2.	Unplug the product after use. 
+3.	If noticed any damage in cord, check for replacement from Philips service centre. 
+4.	The product can be used by children aged 8 years and above. But, supervision of adults is advised for young users. 
+5.	Always ensure the voltage before plugging in. The voltage indicated on the appliance corresponds to the local power voltage. 
+6.	Not advised to use the product on artificial hair. 
+7.	Do not leave the product unattended after connected to the power. 
+8.	Cool the product completely before storing it. 
+9.	Do not let the cord come in contact with the heating plates. 
+10.	Always use the product on dry hair. 
