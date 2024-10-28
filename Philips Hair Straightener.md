@@ -39,7 +39,7 @@ Congratulations on purchasing the **Philips Silk ProCare Hair Straightener with 
 
 Infused with __keratin ceramic coating__ and __iconic care__, the Philips straightener protects the hairs while styling with minimal heat damage adding more shine and perfect salon like results.  
 
-This document presents the technical specifications and _*how to guide_* on using the Philips Silk ProCare Hair Straightener with Kerashine. 
+This document presents the technical specifications and __how to guide__ on using the Philips Silk ProCare Hair Straightener with Kerashine. 
 
 ## **Glossary**
 
@@ -92,16 +92,17 @@ Follow the instructions carefully before using the product and keep the document
 
 1. Plug the product to power supply socket.
 2. Open the heating plates by sliding the unlock switch (5)
-3. Adjust the temperature control switch (4) to level 1 or 2 on the product. 
+3. Adjust the temperature control switch (4) to level 1 or 2 on the product.
+
    **Note**: _*Always use the lower temperature option for the first time._* 
-4. The power-on LED (3) lights up. 
-5. Once the indicator lights up, the product takes __60 seconds__ to heat up. 
-6. When the product is on, ions (2) are evenly distributed automatically and continuously, reducing frizz and adding further shine to hairs.
-7. Comb your hair and make sections for easy straightening.
-8. Place the sectioned hair between the straightening plates (1) and close the plates firmly together. 
-9. Gently slide down the straightener in one go (Maximum 5 seconds). Avoid stopping in between to avoid overheating.
-10. Slowly turn the straightener (inwards/outwards) to create curly flicks at the hair ends. 
-11. Repeat step 6-8 to style the rest hairs.
+5. The power-on LED (3) lights up. 
+6. Once the indicator lights up, the product takes __60 seconds__ to heat up. 
+7. When the product is on, ions (2) are evenly distributed automatically and continuously, reducing frizz and adding further shine to hairs.
+8. Comb your hair and make sections for easy straightening.
+9. Place the sectioned hair between the straightening plates (1) and close the plates firmly together. 
+10. Gently slide down the straightener in one go (Maximum 5 seconds). Avoid stopping in between to avoid overheating.
+11. Slowly turn the straightener (inwards/outwards) to create curly flicks at the hair ends. 
+12. Repeat step 6-8 to style the rest hairs.
 
 
 ## **After Use**
