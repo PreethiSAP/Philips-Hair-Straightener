@@ -3,7 +3,7 @@
 
 ![71yc4nJxY8L _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/1fac84b7-6014-424d-a66b-1ba1de79d35e)
 
-## Table of Content ----------------------------------------------------------------------
+## Table of Content 
 1.	Operational image of Philips hair straightener - BHS386
 2.	Introduction
 3.	Glossary
@@ -12,8 +12,9 @@
 6.	Step to Straighten the Hair
 7.	After Use
 8.	Warranty & Service
+-------------------------------------------------------------------------------------
 
-#### Operational image of Philips hair straightener - BHS386
+##### Operational image of Philips hair straightener - BHS386
 
 ![philips](https://github.com/user-attachments/assets/1c164348-cacb-4bfb-ab70-deba8fcded71)
 
@@ -30,18 +31,19 @@
 ###### (5)	Unlock switch 
 
 ###### (6)	Hanging loop
+----------------------------------------------------------------------------
 
 ## **Introduction**
 
-Congratulations on purchasing the Philips Silk ProCare Hair Straightener with Kerashine and welcome to Philips family. 
+Congratulations on purchasing the **Philips Silk ProCare Hair Straightener with Kerashine** and welcome to Philips family. 
 
-Infused with keratin ceramic coating and iconic care, the Philips straightener protects the hairs while styling with minimal heat damage adding more shine and perfect salon like results.  
+Infused with __keratin ceramic coating__ and __iconic care__, the Philips straightener protects the hairs while styling with minimal heat damage adding more shine and perfect salon like results.  
 
-This document presents the technical specifications and how to guide on using the Philips Silk ProCare Hair Straightener with Kerashine. 
+This document presents the technical specifications and _*how to guide_* on using the Philips Silk ProCare Hair Straightener with Kerashine. 
 
 ## **Glossary**
 
-**Keratin-infused ceramic:** a feature of some hair straighteners that are designed to make hair shinier, healthier, and smoother.
+**Keratin-infused ceramic:** A feature of some hair straighteners that are designed to make hair shinier, healthier, and smoother.
 
 **Keratin:** The keratin in the plates helps keep hair healthy and shiny. 
 
@@ -84,22 +86,22 @@ Follow the instructions carefully before using the product and keep the document
 7. Do not leave the product unattended after connected to the power.
 8. Cool the product completely before storing it.
 9. Do not let the cord come in contact with the heating plates. 
-10.	Always use the product on dry hair.
+10. Always use the product on dry hair.
 
 ## **Steps to Straightening the hair**
 
 1. Plug the product to power supply socket.
 2. Open the heating plates by sliding the unlock switch (5)
 3. Adjust the temperature control switch (4) to level 1 or 2 on the product. 
-   _*Note: Always use the lower temperature option for the first time._* 
+   **Note**: _*Always use the lower temperature option for the first time._* 
 4. The power-on LED (3) lights up. 
-5. Once the indicator lights up, the product takes 60 seconds to heat up. 
+5. Once the indicator lights up, the product takes __60 seconds__ to heat up. 
 6. When the product is on, ions (2) are evenly distributed automatically and continuously, reducing frizz and adding further shine to hairs.
 7. Comb your hair and make sections for easy straightening.
 8. Place the sectioned hair between the straightening plates (1) and close the plates firmly together. 
-9. Gently slide the down the straightener in one go (Maximum 5 seconds). Avoid stopping the straightener in between to avoid overheating.
+9. Gently slide down the straightener in one go (Maximum 5 seconds). Avoid stopping in between to avoid overheating.
 10. Slowly turn the straightener (inwards/outwards) to create curly flicks at the hair ends. 
-11. Repeat step 6-8 to style the rest hair.
+11. Repeat step 6-8 to style the rest hairs.
 
 
 ## **After Use**
