@@ -3,8 +3,7 @@
 
 ![71yc4nJxY8L _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/1fac84b7-6014-424d-a66b-1ba1de79d35e)
 
-## Table of Content
-----------------------------------------------------------------------
+## Table of Content ----------------------------------------------------------------------
 1.	Operational image of Philips hair straightener - BHS386
 2.	Introduction
 3.	Glossary
