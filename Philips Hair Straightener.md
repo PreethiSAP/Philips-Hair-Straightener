@@ -135,5 +135,5 @@ This product is covered under warranty on any defect/damage for 2 years  from th
 
 Contact authorised Philips Service Centres for any information or troubleshoot. 
 
-Visit[Philips](www.philips.com) for a list of authorized Philips service centers or contact our consumer care at 1800 102 2929 (Toll free) or 1860 180 1111 standard call rates apply.
+Visit [Philips](www.philips.com) for a list of authorized Philips service centers or contact our consumer care at 1800 102 2929 (Toll free) or 1860 180 1111 standard call rates apply.
 
